@@ -1,0 +1,12 @@
+TP de reconaissance d'images à l'aide de réseaux de neurones
+
+Equipe 7 
+
+Collaborateurs :
+
+ROBERT Bastien
+DEQUIDT Emmanuel
+AUBERT Jean-Marc
+SABI-EL Hachemi
+
+Ynov Aix en Provence Mastère Datascientist
