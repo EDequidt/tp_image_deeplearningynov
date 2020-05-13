@@ -1,4 +1,4 @@
-TP de reconaissance d'images à l'aide de réseaux de neurones
+TP de reconnaissance d'images à l'aide de réseaux de neurones
 
 Equipe 7 
 
